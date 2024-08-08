@@ -1,4 +1,4 @@
-# IAT extension for Minno - Hi its Emma!
+# IAT extension for Minno 
 
 ### An extension script for implementing the Implicit Association Test (IAT) with Minno.
 
